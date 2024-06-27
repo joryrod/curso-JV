@@ -1,0 +1,15 @@
+{
+  "name": "ejemplito",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "mevengo": "node index.js",
+    "yamevine":"nodemon index.js"
+  },
+  "author": "jory",
+  "license": "ISC",
+  "description": "estoy probando mi programa",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
